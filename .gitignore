@@ -416,3 +416,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Local secrets (never commit)
+appsettings.Local.json
+
+# Frontend build output
+frontend/dist/
+frontend/.playwright/
+frontend/playwright-report/
+frontend/test-results/

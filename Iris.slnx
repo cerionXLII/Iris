@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/Iris.Api/Iris.Api.csproj" />
+    <Project Path="backend/Iris.Core/Iris.Core.csproj" />
+    <Project Path="backend/Iris.Tests/Iris.Tests.csproj" />
+  </Folder>
+  <Folder Name="/frontend/">
+    <Project Path="frontend/frontend.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
+</Solution>
